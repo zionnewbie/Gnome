@@ -1,0 +1,5 @@
+## Fixed my audio issue ! dk how but it worked  ( moslty encodes and driver issues)
+sudo pacman -S ffmpeg
+sudo pacman -S gst-libav gst-plugins-good gst-plugins-bad gst-plugins-ugly
+sudo pacman -S libva-mesa-driver mesa-vdpau
+
