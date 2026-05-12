@@ -4,8 +4,11 @@ Some Minor i3 customization with polybar !
 
 Polybar-2:
 # ![Polybar-2 Demo image](Demo/polybar.png) 
-internal:The Artwork's of many artist are in this wallpaper colletion , i would love to give credit's for each one ~! but i kinda don't knwo where ,who's are which . most of these wallpapers where taken from # https://wallhaven.cc/
 
+Internal:-
+The Artwork's of many artist are in this wallpaper colletion , i would love to give credit's for each one ~! 
+but i kinda don't know who's are which and most of these wallpapers where taken from # https://wallhaven.cc/
+sorry ~!in advance
 
 > **Note:**
 > This is a personal setup. Use at your own risk — issues may require manual troubleshooting.
