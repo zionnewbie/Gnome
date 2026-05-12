@@ -3,7 +3,12 @@ Some Minor i3 customization with polybar !
 
 
 Polybar-2:
+<<<<<<< HEAD
 # ![Polybar-2 Demo image](Demo/polybar.png)
+=======
+# ![Polybar-2 Demo image](Demo/polybar.png) 
+internal:The Artwork's of many artist are in this wallpaper colletion , i would love to give credit's for each one ~! but i kinda don't knwo where ,who's are which . most of these wallpapers where taken from # https://wallhaven.cc/
+>>>>>>> parent of 01751ab35 (sorry)
 
 
 > **Note:**
